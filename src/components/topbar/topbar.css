@@ -1,0 +1,32 @@
+
+.top{
+    margin: 10px;
+    padding: 0px;
+    font-size: 25px;
+    color:black;
+    list-style: none;
+    cursor: pointer;
+    font-weight: 600 !important;
+    text-decoration: none;
+}
+
+.topList {
+  display: flex;
+    justify-content: center;
+    margin: 30px;
+    padding: 10px;
+    list-style: none;
+    
+}
+.padd_right{
+  padding-right: 30px;
+}
+
+
+.navbar-brand{
+  width: 15%;
+  border-radius: 120%;
+}
+.navbar-nav{
+  --bs-nav-link-color: rgb(0 0 0 / 98%)
+}

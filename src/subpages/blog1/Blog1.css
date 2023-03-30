@@ -1,0 +1,30 @@
+ h1{
+    text-align: center;
+ }
+ 
+ .head{
+  
+   padding: 6px;
+   width: 100%;
+   text-align: center;
+   font-family: "Varela Round", sans-serif;
+   font-size: 65px;
+   line-height: 40px;
+   color: #df0909d1;
+   font-weight: 700;
+   padding: 40px 0px 0px 0px;
+   margin: 0px;
+ }
+ .topic{
+   font-size:30px;
+   margin: 30px;
+   width: 40%;
+ }
+ .para-b{
+  font-size: 80%;
+  
+ }
+ .img-21{
+  float: right;
+    margin-top: 15%;
+ }

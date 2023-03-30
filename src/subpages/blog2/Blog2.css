@@ -1,0 +1,30 @@
+.topic-holi{
+    font-size:40px;
+    margin: 30px;
+    width: 76%;
+    
+  }
+  .img-H{
+    width: 70%;
+    margin-left: 15%;
+    
+  }
+  .img-25{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  .img-26{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+   
+  }
+  .holi-para{
+    font-size: 80%;
+  }
+  .head{
+    padding: 50px 0px 35px 30px
+  }
